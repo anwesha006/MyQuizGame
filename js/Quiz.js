@@ -1,7 +1,7 @@
 class Quiz {
-    constructor({
+    constructor(){
 
-    })
+    }
 
 
     getState(){
